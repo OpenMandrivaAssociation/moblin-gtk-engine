@@ -26,7 +26,7 @@ Development files for Moblin's Gtk engine
 perl -pi -e 's,^./configure.*,,' ./autogen.sh
 
 %build
-NOCONFIGURE=nil ./autogen.sh
+./autogen.sh
 %configure2_5x
 %make
 
