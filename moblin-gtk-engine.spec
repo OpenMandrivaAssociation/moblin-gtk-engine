@@ -3,7 +3,7 @@ Summary: Gtk engine for Moblin
 Group: Graphical desktop/GNOME 
 Version: 1.0.2
 License: LGPL v2.1
-URL: http://www.moblin.org
+URL: https://www.moblin.org
 Release: %mkrel 2
 Source0: http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
